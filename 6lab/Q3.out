@@ -1,7 +1,0 @@
-Tree 1 weight: 63.27
-Tree 1 parse:
-ROOT ( S ( NP ( Bart ) ) (VP ( V ( V ( kiss ) ) (Vsuff ( -ed )  ) ) (NP ( Det ( a ) ) (N ( N ( puppy ) ) (PP ( P ( with ) ) (NP ( Det ( a ) ) (N ( smile )  )  )  )  )  )  ) ) (Period ( . )  ) 
-
-Tree 2 weight: 54.38
-Tree 2 parse:
-ROOT ( S ( NP ( Bart ) ) (VP ( VP ( V ( V ( kiss ) ) (Vsuff ( -ed )  ) ) (NP ( Det ( a ) ) (N ( puppy )  )  ) ) (PP ( P ( with ) ) (NP ( Det ( a ) ) (N ( smile )  )  )  )  ) ) (Period ( . )  ) 
